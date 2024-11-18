@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee4c9af6-9215-4dce-a9b9-c8fd5f0070b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2mTMLtsqAS5hcfgmENXnkDv8AVc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/upload2github/new_brain2voiceDataset_official2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\new_brain2voiceDataset_official2\F07\comparison_orign2_vocoderLamb100_epoch250_lr0.00005and0.00001_results" />
+      <recent name="E:\new_brain2voiceDataset_official2\F07\comparison_orign2_vocoder_2_epoch250_lr0.00005and0.00001_results" />
+      <recent name="E:\new_brain2voiceDataset_official2\F07" />
+      <recent name="E:\new_brain2voiceDataset_official2\F07\comparison_orign2_vocoder_epoch250_lr0.00005and0.00001_results" />
+      <recent name="E:\new_brain2voiceDataset_official2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\new_brain2voiceDataset_official2\F07\comparison_orign2_vocoderLamb100_epoch250_lr0.00005and0.00001_results" />
+      <recent name="E:\new_brain2voiceDataset_official2\F07\comparison_orign2_vocoder_epoch250_lr0.00005and0.00001_results" />
+      <recent name="E:\new_brain2voiceDataset_official2\F07\comparison_orign2_vocoder_2_epoch250_lr0.00005and0.00001_results" />
+      <recent name="E:\new_brain2voiceDataset_official2\F07\comparison_orign2_1_epoch250_lr0.00005and0.00001_results" />
+      <recent name="E:\new_brain2voiceDataset_official2\F07" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.cal_mcd">
+    <configuration name="cal_mcd (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="new_brain2voiceDataset_official" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/F05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/F05/cal_mcd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cal_mcd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="new_brain2voiceDataset_official" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/F07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/F07/cal_mcd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cal_ssim (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="new_brain2voiceDataset_official" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/F05" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/F05/cal_ssim.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cal_ssim" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="new_brain2voiceDataset_official" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/F07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/F07/cal_ssim.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="img2wav (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="new_brain2voiceDataset_official" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/F07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/F07/img2wav.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.cal_mcd" />
+        <item itemvalue="Python.img2wav (1)" />
+        <item itemvalue="Python.cal_mcd (1)" />
+        <item itemvalue="Python.cal_ssim (1)" />
+        <item itemvalue="Python.cal_ssim" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee4c9af6-9215-4dce-a9b9-c8fd5f0070b7" name="Changes" comment="" />
+      <created>1727096059565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727096059565</updated>
+      <workItem from="1727096060573" duration="2057000" />
+      <workItem from="1727098923331" duration="195000" />
+      <workItem from="1727099662257" duration="187000" />
+      <workItem from="1727137147360" duration="2316000" />
+      <workItem from="1727150558930" duration="3849000" />
+      <workItem from="1727166211801" duration="1277000" />
+      <workItem from="1727173674323" duration="698000" />
+      <workItem from="1727178586454" duration="1211000" />
+      <workItem from="1727181161269" duration="2954000" />
+      <workItem from="1727222829268" duration="1342000" />
+      <workItem from="1727226021034" duration="332000" />
+      <workItem from="1727240399728" duration="6774000" />
+      <workItem from="1727270304441" duration="171000" />
+      <workItem from="1727272776722" duration="1327000" />
+      <workItem from="1727306760998" duration="248000" />
+      <workItem from="1727323432361" duration="770000" />
+      <workItem from="1727326240227" duration="11616000" />
+      <workItem from="1727360468055" duration="1375000" />
+      <workItem from="1727394777491" duration="966000" />
+      <workItem from="1727395953468" duration="1958000" />
+      <workItem from="1727414269744" duration="2389000" />
+      <workItem from="1727420458768" duration="912000" />
+      <workItem from="1727427851919" duration="715000" />
+      <workItem from="1727434179448" duration="96000" />
+      <workItem from="1727479742289" duration="2280000" />
+      <workItem from="1727488353036" duration="8262000" />
+      <workItem from="1727499733407" duration="4380000" />
+      <workItem from="1727509732471" duration="584000" />
+      <workItem from="1727510330898" duration="4671000" />
+      <workItem from="1727520122415" duration="3283000" />
+      <workItem from="1727567730548" duration="1860000" />
+      <workItem from="1727573696312" duration="2203000" />
+      <workItem from="1727582233583" duration="1656000" />
+      <workItem from="1727587491036" duration="970000" />
+      <workItem from="1727601313381" duration="1317000" />
+      <workItem from="1727603659188" duration="51000" />
+      <workItem from="1727603717922" duration="578000" />
+      <workItem from="1727665734514" duration="224000" />
+      <workItem from="1728129462789" duration="7392000" />
+      <workItem from="1728175268898" duration="20518000" />
+      <workItem from="1728210479813" duration="6160000" />
+      <workItem from="1728218846633" duration="3088000" />
+      <workItem from="1728269818691" duration="28291000" />
+      <workItem from="1728344339062" duration="18932000" />
+      <workItem from="1728377078127" duration="17502000" />
+      <workItem from="1728430743531" duration="155961000" />
+      <workItem from="1728725825483" duration="2192000" />
+      <workItem from="1728801904950" duration="1892000" />
+      <workItem from="1728832512895" duration="47000" />
+      <workItem from="1728861446128" duration="3572000" />
+      <workItem from="1728902998543" duration="9512000" />
+      <workItem from="1728951321154" duration="3786000" />
+      <workItem from="1728964295967" duration="2993000" />
+      <workItem from="1728970356179" duration="6191000" />
+      <workItem from="1728984167313" duration="2684000" />
+      <workItem from="1728998207418" duration="5522000" />
+      <workItem from="1729033173345" duration="12921000" />
+      <workItem from="1729062009588" duration="10110000" />
+      <workItem from="1729085930288" duration="3337000" />
+      <workItem from="1729089308796" duration="4315000" />
+      <workItem from="1729119920271" duration="17756000" />
+      <workItem from="1729174347666" duration="79000" />
+      <workItem from="1729174433862" duration="1928000" />
+      <workItem from="1729219960903" duration="6370000" />
+      <workItem from="1729227193720" duration="14860000" />
+      <workItem from="1729297725235" duration="1218000" />
+      <workItem from="1729303632094" duration="6867000" />
+      <workItem from="1729493186176" duration="715000" />
+      <workItem from="1729685889844" duration="22000" />
+      <workItem from="1729702337588" duration="197000" />
+      <workItem from="1730699389274" duration="50000" />
+      <workItem from="1730699522991" duration="109000" />
+      <workItem from="1730774941058" duration="17000" />
+      <workItem from="1730847470980" duration="1051000" />
+      <workItem from="1730871387083" duration="9000" />
+      <workItem from="1730960706832" duration="660000" />
+      <workItem from="1730986675407" duration="81000" />
+      <workItem from="1730988196302" duration="1575000" />
+      <workItem from="1731026214196" duration="28628000" />
+      <workItem from="1731079418586" duration="272000" />
+      <workItem from="1731116057306" duration="2949000" />
+      <workItem from="1731119111841" duration="3952000" />
+      <workItem from="1731137145710" duration="1206000" />
+      <workItem from="1731142930779" duration="4221000" />
+      <workItem from="1731152628260" duration="728000" />
+      <workItem from="1731159897602" duration="2943000" />
+      <workItem from="1731196790061" duration="707000" />
+      <workItem from="1731199449975" duration="26247000" />
+      <workItem from="1731241611076" duration="331000" />
+      <workItem from="1731244247208" duration="2405000" />
+      <workItem from="1731277621991" duration="6038000" />
+      <workItem from="1731288781297" duration="2148000" />
+      <workItem from="1731291491198" duration="2720000" />
+      <workItem from="1731294364237" duration="8135000" />
+      <workItem from="1731305086329" duration="2544000" />
+      <workItem from="1731314618028" duration="4332000" />
+      <workItem from="1731322737880" duration="3800000" />
+      <workItem from="1731328295267" duration="955000" />
+      <workItem from="1731335525175" duration="1957000" />
+      <workItem from="1731373092129" duration="7648000" />
+      <workItem from="1731397607144" duration="8017000" />
+      <workItem from="1731413780073" duration="2410000" />
+      <workItem from="1731416748465" duration="180000" />
+      <workItem from="1731427620625" duration="61000" />
+      <workItem from="1731427737051" duration="9000" />
+      <workItem from="1731455267348" duration="228000" />
+      <workItem from="1731455913024" duration="48000" />
+      <workItem from="1731456542223" duration="21000" />
+      <workItem from="1731461314508" duration="94000" />
+      <workItem from="1731463680542" duration="3317000" />
+      <workItem from="1731469500068" duration="84000" />
+      <workItem from="1731470112654" duration="173000" />
+      <workItem from="1731470471124" duration="568000" />
+      <workItem from="1731478903351" duration="2277000" />
+      <workItem from="1731806278517" duration="638000" />
+      <workItem from="1731896818777" duration="477000" />
+      <workItem from="1731897693554" duration="929000" />
+      <workItem from="1731907049213" duration="73000" />
+      <workItem from="1731908408677" duration="25000" />
+      <workItem from="1731930626050" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$Generator4.coverage" NAME="Generator4 Coverage Results" MODIFIED="1731200014066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/net" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official1$6_img2wav__1_.coverage" NAME="6_img2wav (1) Coverage Results" MODIFIED="1727602769953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fsdd_2_2" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$plot_spe.coverage" NAME="plot_spe Coverage Results" MODIFIED="1729227039593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/timit-11/comparison_IncepV4_epoch250_lr0.00005and0.00001_results" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$cal_ssim__3_.coverage" NAME="cal_ssim (3) Coverage Results" MODIFIED="1731053369061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sub-01_every_cn" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$predict.coverage" NAME="predict Coverage Results" MODIFIED="1731409804750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official1$img2wav1__1_.coverage" NAME="img2wav1 (1) Coverage Results" MODIFIED="1727504093538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fsdd_2_re1" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$3_cer.coverage" NAME="3_cer Coverage Results" MODIFIED="1729243263832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/timit-11/comparison_IncepV4_epoch250_lr0.00005and0.00001_results" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official1$cal_ssim__2_.coverage" NAME="cal_ssim (2) Coverage Results" MODIFIED="1727500285345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fsdd" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official1$6_img2wav.coverage" NAME="6_img2wav Coverage Results" MODIFIED="1728137858795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fsdd_all" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$cal_mcd__1_.coverage" NAME="cal_mcd (1) Coverage Results" MODIFIED="1731469563399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/F05" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official1$predict.coverage" NAME="predict Coverage Results" MODIFIED="1728140461235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$cal_pcc__1_.coverage" NAME="cal_pcc (1) Coverage Results" MODIFIED="1728604806092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/timit0" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official$img2wav.coverage" NAME="img2wav Coverage Results" MODIFIED="1727354194614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/all_sub" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official1$cal_mcd__1_.coverage" NAME="cal_mcd (1) Coverage Results" MODIFIED="1727602790210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fsdd_2_2" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official1$cal_ssim.coverage" NAME="cal_ssim Coverage Results" MODIFIED="1728137703800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fsdd_all" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official1$cal_pcc.coverage" NAME="cal_pcc Coverage Results" MODIFIED="1728137768886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fsdd_all" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official$cal_ssim1.coverage" NAME="cal_ssim1 Coverage Results" MODIFIED="1727180117751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fsdd1" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official$cal_mcd.coverage" NAME="cal_mcd Coverage Results" MODIFIED="1727362991916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/all_sub" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$plot_spe__3_.coverage" NAME="plot_spe (3) Coverage Results" MODIFIED="1729225730431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/timit-13/comparison_orign_epoch250_lr0.00005and0.00001_results" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$plot_wave.coverage" NAME="plot_wave Coverage Results" MODIFIED="1729220751890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/timit-11/comparison_IncepV4_epoch250_lr0.00005and0.00001_results" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$img2wav.coverage" NAME="img2wav Coverage Results" MODIFIED="1731338619876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/F10_nmels200" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$cal_snr__2_.coverage" NAME="cal_snr (2) Coverage Results" MODIFIED="1729226442032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sub-10/comparison_IncepV4_epoch250_lr0.00005and0.00001_results" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$cal_mcd.coverage" NAME="cal_mcd Coverage Results" MODIFIED="1731484347128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/F07" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official$cal_ssim__3_.coverage" NAME="cal_ssim (3) Coverage Results" MODIFIED="1727339421047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/helan1" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official1$cal_ssim__3_.coverage" NAME="cal_ssim (3) Coverage Results" MODIFIED="1727500318836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fsdd_1" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$1_orign_wave__2_.coverage" NAME="1_orign_wave (2) Coverage Results" MODIFIED="1729250210451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/timit-11/comparison_IncepV4_epoch250_lr0.00005and0.00001_results" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$cal_ssim.coverage" NAME="cal_ssim Coverage Results" MODIFIED="1731409809979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/F07" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$1111.coverage" NAME="1111 Coverage Results" MODIFIED="1731202349338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/F05_50x50" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official$predict.coverage" NAME="predict Coverage Results" MODIFIED="1727354037468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official$6_img2wav.coverage" NAME="6_img2wav Coverage Results" MODIFIED="1727362959463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/all_sub" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$Generator1_128.coverage" NAME="Generator1_128 Coverage Results" MODIFIED="1731118369592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/net" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$cal_ssim__1_.coverage" NAME="cal_ssim (1) Coverage Results" MODIFIED="1731469550748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/F05" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official1$cal_mcd__2_.coverage" NAME="cal_mcd (2) Coverage Results" MODIFIED="1727571177524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/swpd" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$train.coverage" NAME="train Coverage Results" MODIFIED="1731336155632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official1$img2wav1.coverage" NAME="img2wav1 Coverage Results" MODIFIED="1727516935337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fsdd_2_re" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$2_orign_mel.coverage" NAME="2_orign_mel Coverage Results" MODIFIED="1729326249401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/new_sub-9" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$train2.coverage" NAME="train2 Coverage Results" MODIFIED="1731213446737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$cal_snr__1_.coverage" NAME="cal_snr (1) Coverage Results" MODIFIED="1729236308053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/timit-13/comparison_IncepV4_epoch250_lr0.00005and0.00001_results" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$split_dataset.coverage" NAME="split_dataset Coverage Results" MODIFIED="1731319463025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/F07_nmels80_2" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$111.coverage" NAME="111 Coverage Results" MODIFIED="1729702510044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$plot_spe__2_.coverage" NAME="plot_spe (2) Coverage Results" MODIFIED="1729225721617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/timit-13/comparison_IncepV4_epoch250_lr0.00005and0.00001_results" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$6_img2wav.coverage" NAME="6_img2wav Coverage Results" MODIFIED="1729308706894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/new_sub-9" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$2_prediceted_wave__1_.coverage" NAME="2_prediceted_wave (1) Coverage Results" MODIFIED="1729236874305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/timit-11/comparison_IncepV4_epoch250_lr0.00005and0.00001_results" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$img2wav__1_.coverage" NAME="img2wav (1) Coverage Results" MODIFIED="1731484337952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/F07" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official$cal_ssim__2_.coverage" NAME="cal_ssim (2) Coverage Results" MODIFIED="1727339450041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sub-01_1" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$plot_mel.coverage" NAME="plot_mel Coverage Results" MODIFIED="1729227030948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/timit-11/comparison_IncepV4_epoch250_lr0.00005and0.00001_results" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$1_wave.coverage" NAME="1_wave Coverage Results" MODIFIED="1729236569069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/timit-13/comparison_IncepV4_epoch250_lr0.00005and0.00001_results" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official$cal_ssim.coverage" NAME="cal_ssim Coverage Results" MODIFIED="1727354165711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/all_sub" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$1_orign_wave__1_.coverage" NAME="1_orign_wave (1) Coverage Results" MODIFIED="1729236692303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/timit-13/comparison_IncepV4_epoch250_lr0.00005and0.00001_results" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$cal_ssim1.coverage" NAME="cal_ssim1 Coverage Results" MODIFIED="1731153143633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sub-9" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$6_img2wav__1_.coverage" NAME="6_img2wav (1) Coverage Results" MODIFIED="1729003650410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/timit-12" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$1_orign_wave.coverage" NAME="1_orign_wave Coverage Results" MODIFIED="1729326147688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/new_sub-9" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$cal_wer.coverage" NAME="cal_wer Coverage Results" MODIFIED="1728724121243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/timit-1" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$train_1.coverage" NAME="train_1 Coverage Results" MODIFIED="1731404493511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official1$img2wav.coverage" NAME="img2wav Coverage Results" MODIFIED="1727427926096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fsdd" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$cal_ssim__2_.coverage" NAME="cal_ssim (2) Coverage Results" MODIFIED="1731151655369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/F05" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$3_orign_sep.coverage" NAME="3_orign_sep Coverage Results" MODIFIED="1729326597567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/new_sub-9" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official1$cal_mcd__3_.coverage" NAME="cal_mcd (3) Coverage Results" MODIFIED="1727509782784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fsdd_2_re" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$cal_pcc.coverage" NAME="cal_pcc Coverage Results" MODIFIED="1731338558249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/F10_nmels200" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$cal_rmse.coverage" NAME="cal_rmse Coverage Results" MODIFIED="1728721502603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/timit-1" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official1$cal_mcd.coverage" NAME="cal_mcd Coverage Results" MODIFIED="1728137918041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fsdd_all" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official1$cal_ssim__1_.coverage" NAME="cal_ssim (1) Coverage Results" MODIFIED="1728140486256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fsdd" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official$cal_ssim__1_.coverage" NAME="cal_ssim (1) Coverage Results" MODIFIED="1727348969958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/all_sub" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official1$train.coverage" NAME="train Coverage Results" MODIFIED="1728138476049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$split.coverage" NAME="split Coverage Results" MODIFIED="1728565653058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/timit1" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$plot_spe__1_.coverage" NAME="plot_spe (1) Coverage Results" MODIFIED="1729227267833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sub-1/comparison_IncepV4_epoch250_lr0.00005and0.00001_results" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$cal_snr.coverage" NAME="cal_snr Coverage Results" MODIFIED="1729236260621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/timit-13/comparison_orign_epoch250_lr0.00005and0.00001_results" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official$train.coverage" NAME="train Coverage Results" MODIFIED="1727350205832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$4_emecave.coverage" NAME="4_emecave Coverage Results" MODIFIED="1729240191540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/timit-11/comparison_IncepV4_epoch250_lr0.00005and0.00001_results" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official$cal_pcc.coverage" NAME="cal_pcc Coverage Results" MODIFIED="1727353583958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/all_sub" />
+    <SUITE FILE_PATH="coverage/new_brain2voiceDataset_official2$2_prediceted_wave.coverage" NAME="2_prediceted_wave Coverage Results" MODIFIED="1729236686120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/timit-13/comparison_IncepV4_epoch250_lr0.00005and0.00001_results" />
+  </component>
+</project>
