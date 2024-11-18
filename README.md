@@ -27,3 +27,5 @@
 (5)  net文件夹里有很多不同尝试的生成器，想要换的时候把train.py里的关键词“Generator1”替换成各自的文件名称即可<br>
 
 * 对于dual-dualgan-main_offical：<br>
+基本训练流程按照[Dual-DualGAN](https://github.com/qwe1218088/dual-dualgan)的训练步骤即可，在测试阶段需要注意：<br>
+从AtoB转完之后，需要手动将测试结果复制到原来B中测试集(test和val都改一下)的位置，否则在BtoC的时候就会将整体转换的流程打断，生成的图片就成两段了（AtoB和BtoC），详细操作可以见[百度网盘](https://pan.baidu.com/s/17xBNx6JHPrpHGZsjl6EAng?pwd=c8si)中的部分被试数据集构成。
