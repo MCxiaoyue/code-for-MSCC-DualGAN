@@ -1,4 +1,4 @@
-# code-for-paper
+# code and dataset-for-paper
 文件夹：new_brain2voiceDataset_official2包含我们本文提出模型MSCC-DualGAN的相关实验操作代码和结果对比代码; <br>
 文件夹：dual-dualgan-main_offical是本团队之前的研究提出的[Dual-DualGAN](https://github.com/qwe1218088/dual-dualgan)的相关实验操作代码和结果对比代码;<br>
 数据集：new_brain2voiceDataset_official2文件夹包含了paper中已经切好的公开数据集和本文自采数据集.<br>
