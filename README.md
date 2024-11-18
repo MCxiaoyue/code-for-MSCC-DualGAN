@@ -17,3 +17,8 @@
 
 * cal_ssim.py为对比结构相似性, cal_pcc.py为对比皮尔逊相关系数, 6_img2wav.py为将梅尔倒谱图转回为音频文件, cal_mcd.py为对比两个音频的MCD值
 
+# 运行说明
+
+* 对于new_brain2voiceDataset_official2：
+**  1111
+**  1111
